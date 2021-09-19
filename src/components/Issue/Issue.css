@@ -1,0 +1,18 @@
+.issue {
+  width: 100%;
+  padding: 8px;
+}
+.issue__row--1 {
+  display: flex;
+}
+.issue__row--1__title {
+  font-size: 12px;
+  font-weight: bold;
+}
+.issue__row--1__label {
+  padding: 2px 4px;
+  font-size: 8px;
+  border: 1px solid #000000;
+  border-radius: 9px;
+  margin-left: 2px;
+}
